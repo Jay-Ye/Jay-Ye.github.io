@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segmentation and Categorization | Junjie Ye</title>
+    <link>https://example.com/tag/segmentation-and-categorization/</link>
+      <atom:link href="https://example.com/tag/segmentation-and-categorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Segmentation and Categorization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Segmentation and Categorization</title>
+      <link>https://example.com/tag/segmentation-and-categorization/</link>
+    </image>
+    
+    <item>
+      <title>Deep Tri-Training for Semi-Supervised Image Segmentation</title>
+      <link>https://example.com/publication/2022_ral_dtt/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_dtt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

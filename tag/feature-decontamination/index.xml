@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Decontamination | Junjie Ye</title>
+    <link>https://example.com/tag/feature-decontamination/</link>
+      <atom:link href="https://example.com/tag/feature-decontamination/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Decontamination</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Decontamination</title>
+      <link>https://example.com/tag/feature-decontamination/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
+      <link>https://example.com/publication/2022_iros_fdnt/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_fdnt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

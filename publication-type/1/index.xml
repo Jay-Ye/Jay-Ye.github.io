@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Junjie Ye</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking</title>
+      <link>https://example.com/publication/2023_icra_sgdvit/</link>
+      <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_icra_sgdvit/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MKCT_workflow&#34; srcset=&#34;
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_73510b3a379e8ae2ddcfbdebe5884a0e.webp 400w,
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_95ea81767160b66afb6f2e77eeae725b.webp 760w,
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_73510b3a379e8ae2ddcfbdebe5884a0e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;Overall comparison of tracking results between baseline (blue) and the proposed saliency-guided dynamic vision Transformer (SGDViT) (red).&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
+      <link>https://example.com/publication/2022_iros_fdnt/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_fdnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2022_iros_highlightnet/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_highlightnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Perception-Aware Transformer for Aerial Tracking</title>
+      <link>https://example.com/publication/2022_iros_lpat/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_lpat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
+      <link>https://example.com/publication/2022_iros_siamsa/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_siamsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://example.com/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_cvpr_udat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2022_icra_ad2attack/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_icra_ad2attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones</title>
+      <link>https://example.com/publication/2021_acmmm_arshoe/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_acmmm_arshoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Aerial Tracking</title>
+      <link>https://example.com/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iccv_hift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkLighter: Light Up the Darkness for UAV Tracking</title>
+      <link>https://example.com/publication/2021_iros_darklighter/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iros_darklighter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiamAPN&#43;&#43;: Siamese Attentional Aggregation Network for Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2021_iros_siamapn&#43;&#43;/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iros_siamapn&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
+      <link>https://example.com/publication/2021_icra_adtrack/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_adtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://example.com/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_mscf_tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
+      <link>https://example.com/publication/2021_icra_siamapn/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_siamapn/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MKCT_workflow&#34; srcset=&#34;
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_0cf393700a521c62c5a8a36c7a48443a.webp 400w,
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_090b84945dab4fd967d48535a5f2431c.webp 760w,
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_0cf393700a521c62c5a8a36c7a48443a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;297&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

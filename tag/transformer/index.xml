@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformer | Junjie Ye</title>
+    <link>https://example.com/tag/transformer/</link>
+      <atom:link href="https://example.com/tag/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transformer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Transformer</title>
+      <link>https://example.com/tag/transformer/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://example.com/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_cvpr_udat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://example.com/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_sct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Aerial Tracking</title>
+      <link>https://example.com/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iccv_hift/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

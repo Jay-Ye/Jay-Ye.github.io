@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-light | Junjie Ye</title>
+    <link>https://example.com/tag/low-light/</link>
+      <atom:link href="https://example.com/tag/low-light/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-light</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Low-light</title>
+      <link>https://example.com/tag/low-light/</link>
+    </image>
+    
+    <item>
+      <title>Nighttime Aerial Tracking</title>
+      <link>https://example.com/project/nighttime_tracking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/nighttime_tracking/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Exploit low-light enhancement, denoising, domain adaption technologies to adapt SOTA tracking approaches to low-light conditions. With slight computational consumption, enable UAV tracking at night.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed a &lt;em&gt;Retinex-inspired plug-and-play&lt;/em&gt; deep low-light enhancer, dubbed &lt;em&gt;DarkLighter&lt;/em&gt;, to light up the darkness for UAV tracking. Experiments on a dark tracking benchmark verify its effectiveness in several trackers and superiority against other SOTA general low-light enhancement algorithms, with &lt;em&gt;sufficient real-time speed on an embedded system&lt;/em&gt;.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=DarkLighter&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/a&gt; in &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructed a &lt;em&gt;spatial-channel Transformer (SCT)&lt;/em&gt; enhancer to facilitate nighttime UAV tracking in a task-inspired manner. Evaluations on the public UAVDark135 and the newly constructed DarkTrack2021 benchmarks demonstrate that the performance gains of SCT brought to nighttime UAV tracking surpass general low-light enhancers.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=SCT&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2022_ral_sct/&#34;&gt;Tracker Meets Night: A Transformer Enhancer for UAV Tracking&lt;/a&gt; in &lt;strong&gt;RA-L with ICRA2022 presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed an unsupervised domain adaptation framework to adapt object tracking from daytime to nighttime, along with a nighttime tracking benchmark.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=UDAT&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2022_cvpr_udat/&#34;&gt;Unsupervised Domain Adaptation for Nighttime Aerial Tracking&lt;/a&gt; in &lt;strong&gt;CVPR2022&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h3&gt;
+&lt;p&gt;We construct some pioneer benchmarks to serve for the development of nighttime object tracking:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-nat2021httpsvision4roboticsgithubionat2021---a-pioneering-benchmark-for-unsupervised-domain-adaptive-nighttime-tracking&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featured&#34;
+           src=&#34;https://example.com/project/nighttime_tracking/featured.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://vision4robotics.github.io/NAT2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAT2021&lt;/a&gt;&amp;mdash;a pioneering benchmark for unsupervised domain adaptive nighttime tracking.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-darktrack2021httpsdarktrack2021netlifyapp---a-nighttime-tracking-benchmark-comprises-110-challenging-sequences-with-100k-frames-in-total&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darktrack2021.netlify.app/post/getting-started/featured_hubbbc35ec4e7f72d7d989382d37396e97_1656952_1200x0_resize_lanczos_3.png&#34; alt=&#34;featured&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://darktrack2021.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DarkTrack2021&lt;/a&gt;&amp;mdash;a nighttime tracking benchmark comprises 110 challenging sequences with 100K frames in total.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-uavdark135uavdark135---a-pioneering-uav-dark-tracking-benchmark-consists-of-135-videos-with-a-variety-of-objects&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jayye99.github.io/project/uavdark135/featured1_hu47b59972aa09e73897af607e7951342f_209882_720x2500_fit_q75_h2_lanczos.webp&#34; alt=&#34;featured&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;../uavdark135/&#34;&gt;UAVDark135&lt;/a&gt;&amp;mdash;a pioneering UAV dark tracking benchmark consists of 135 videos with a variety of objects.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
