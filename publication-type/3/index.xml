@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/3/</link>
       <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
-      <link>https://example.com/publication/2021_arxiv_pvt&#43;&#43;/</link>
-      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021_arxiv_pvt&#43;&#43;/</guid>
+      <title>Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</title>
+      <link>https://example.com/publication/2022_air_siam/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_air_siam/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</title>
-      <link>https://example.com/publication/2022_grsm_siam/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2022_grsm_siam/</guid>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>https://example.com/publication/2021_arxiv_pvt&#43;&#43;/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_arxiv_pvt&#43;&#43;/</guid>
       <description></description>
     </item>
     
