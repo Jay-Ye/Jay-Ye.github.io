@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Junjie Ye</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Scale-Aware Domain Adaptation for Robust UAV Tracking</title>
+      <link>https://example.com/publication/2023_ral_sada/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_ral_sada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
+      <link>https://example.com/publication/2022_tii_siamsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tii_siamsa/</guid>
+      <description> &lt;center&gt;  
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workflow&#34; srcset=&#34;
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_8e8199e035d7e649bd0e99710b64cc5e.webp 400w,
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_0c41dab78bc09e2260f9f67d199a4aea.webp 760w,
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_8e8199e035d7e649bd0e99710b64cc5e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ 
+&lt;small&gt;Demonstration of the vision-based UAM approaching system and qualitative comparison.&lt;/small&gt;&lt;/p&gt;
+ &lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking</title>
+      <link>https://example.com/publication/2022_tgrs_deconnet/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tgrs_deconnet/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workflow&#34; srcset=&#34;
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_14d77c5f1f8ed3928ae782ac0a13ce90.webp 400w,
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_712d8fe0f5844605f4c64319010f7550.webp 760w,
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_14d77c5f1f8ed3928ae782ac0a13ce90.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;Overview of the proposed DeconNet.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Tri-Training for Semi-Supervised Image Segmentation</title>
+      <link>https://example.com/publication/2022_ral_dtt/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_dtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://example.com/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tmc_adtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://example.com/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_sct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://example.com/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_tie_mrcf_tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network</title>
+      <link>https://example.com/publication/2021_tgrs_siamapn_ext/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_tgrs_siamapn_ext/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SiamAPN_workflow&#34; srcset=&#34;
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3f24757db0d84caa4983d716d1301195.webp 400w,
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3b713ec2212559aab433a31a4e665919.webp 760w,
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3f24757db0d84caa4983d716d1301195.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;298&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;The workflow of SiamAPN. It is composed of four subnetworks and two stages, i.e., feature extraction network, feature fusion network, anchor proposal network, and classification&amp;amp;regression network. Stage-1 includes feature extraction network and anchor proposal network (APN). Stage-2 contains feature fusion network and classification&amp;amp;regression network.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
+      <link>https://example.com/publication/2020_tgrs_ibri-tracker/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020_tgrs_ibri-tracker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

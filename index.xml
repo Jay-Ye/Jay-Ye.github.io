@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junjie Ye</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junjie Ye</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Junjie Ye</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>https://example.com/publication/2023_iccv_pvt&#43;&#43;/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_iccv_pvt&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis</title>
+      <link>https://example.com/publication/2022_air_siam/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_air_siam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Domain Adaptation for Robust UAV Tracking</title>
+      <link>https://example.com/publication/2023_ral_sada/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_ral_sada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking</title>
+      <link>https://example.com/publication/2023_icra_sgdvit/</link>
+      <pubDate>Sun, 15 Jan 2023 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_icra_sgdvit/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MKCT_workflow&#34; srcset=&#34;
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_73510b3a379e8ae2ddcfbdebe5884a0e.webp 400w,
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_95ea81767160b66afb6f2e77eeae725b.webp 760w,
+               /publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2023_icra_sgdvit/featured_hua034b7832f0da61add99fc5fcc752ad1_293692_73510b3a379e8ae2ddcfbdebe5884a0e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;Overall comparison of tracking results between baseline (blue) and the proposed saliency-guided dynamic vision Transformer (SGDViT) (red).&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scale-Aware Siamese Object Tracking for Vision-Based UAM Approaching</title>
+      <link>https://example.com/publication/2022_tii_siamsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tii_siamsa/</guid>
+      <description> &lt;center&gt;  
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workflow&#34; srcset=&#34;
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_8e8199e035d7e649bd0e99710b64cc5e.webp 400w,
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_0c41dab78bc09e2260f9f67d199a4aea.webp 760w,
+               /publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2022_tii_siamsa/featured_hu5543fb49da02dda81cb731b7504b7275_468286_8e8199e035d7e649bd0e99710b64cc5e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ 
+&lt;small&gt;Demonstration of the vision-based UAM approaching system and qualitative comparison.&lt;/small&gt;&lt;/p&gt;
+ &lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>DeconNet: End-to-End Decontaminated Network for Vision-Based Aerial Tracking</title>
+      <link>https://example.com/publication/2022_tgrs_deconnet/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tgrs_deconnet/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;workflow&#34; srcset=&#34;
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_14d77c5f1f8ed3928ae782ac0a13ce90.webp 400w,
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_712d8fe0f5844605f4c64319010f7550.webp 760w,
+               /publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2022_tgrs_deconnet/featured_hud7b98e77be9c30fa13443a6239d055aa_137384_14d77c5f1f8ed3928ae782ac0a13ce90.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;Overview of the proposed DeconNet.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Feature Decontaminated Network for UAV Tracking</title>
+      <link>https://example.com/publication/2022_iros_fdnt/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_fdnt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2022_iros_highlightnet/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_highlightnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Perception-Aware Transformer for Aerial Tracking</title>
+      <link>https://example.com/publication/2022_iros_lpat/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_lpat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention</title>
+      <link>https://example.com/publication/2022_iros_siamsa/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_iros_siamsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Tri-Training for Semi-Supervised Image Segmentation</title>
+      <link>https://example.com/publication/2022_ral_dtt/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_dtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Day Object Tracking for Unmanned Aerial Vehicle</title>
+      <link>https://example.com/publication/2022_tmc_adtrack/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_tmc_adtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation for Nighttime Aerial Tracking</title>
+      <link>https://example.com/publication/2022_cvpr_udat/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_cvpr_udat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2022_icra_ad2attack/</link>
+      <pubDate>Tue, 01 Feb 2022 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_icra_ad2attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracker Meets Night: A Transformer Enhancer for UAV Tracking</title>
+      <link>https://example.com/publication/2022_ral_sct/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2022_ral_sct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkTrack2021</title>
+      <link>https://example.com/project/darktrack2021/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/darktrack2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAMT100</title>
+      <link>https://example.com/project/uamt100/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/uamt100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones</title>
+      <link>https://example.com/publication/2021_acmmm_arshoe/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_acmmm_arshoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFT: Hierarchical Feature Transformer for Aerial Tracking</title>
+      <link>https://example.com/publication/2021_iccv_hift/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iccv_hift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DarkLighter: Light Up the Darkness for UAV Tracking</title>
+      <link>https://example.com/publication/2021_iros_darklighter/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iros_darklighter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiamAPN&#43;&#43;: Siamese Attentional Aggregation Network for Real-Time UAV Tracking</title>
+      <link>https://example.com/publication/2021_iros_siamapn&#43;&#43;/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_iros_siamapn&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization</title>
+      <link>https://example.com/publication/2021_tie_mrcf_tracker/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_tie_mrcf_tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network</title>
+      <link>https://example.com/publication/2021_tgrs_siamapn_ext/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_tgrs_siamapn_ext/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SiamAPN_workflow&#34; srcset=&#34;
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3f24757db0d84caa4983d716d1301195.webp 400w,
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3b713ec2212559aab433a31a4e665919.webp 760w,
+               /publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2021_tgrs_siamapn_ext/featured_hu6e3c43b55dde31c03c95f73c2f225ef2_151045_3f24757db0d84caa4983d716d1301195.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;298&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;The workflow of SiamAPN. It is composed of four subnetworks and two stages, i.e., feature extraction network, feature fusion network, anchor proposal network, and classification&amp;amp;regression network. Stage-1 includes feature extraction network and anchor proposal network (APN). Stage-2 contains feature fusion network and classification&amp;amp;regression network.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Visual Tracking: A New Benchmark and Baseline Approach</title>
+      <link>https://example.com/publication/2021_arxiv_pvt/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_arxiv_pvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADTrack: Target-Aware Dual Filter Learning for Real-Time Anti-Dark UAV Tracking</title>
+      <link>https://example.com/publication/2021_icra_adtrack/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_adtrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label</title>
+      <link>https://example.com/publication/2021_icra_mscf_tracker/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_mscf_tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Anchor Proposal Network for High-Speed Aerial Tracking</title>
+      <link>https://example.com/publication/2021_icra_siamapn/</link>
+      <pubDate>Sun, 28 Feb 2021 08:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_icra_siamapn/</guid>
+      <description>&lt;center&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;MKCT_workflow&#34; srcset=&#34;
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_0cf393700a521c62c5a8a36c7a48443a.webp 400w,
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_090b84945dab4fd967d48535a5f2431c.webp 760w,
+               /publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/publication/2021_icra_siamapn/featured_hu88a97bf09758fde1f76e3ceb553f753f_251887_0cf393700a521c62c5a8a36c7a48443a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;297&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;small&gt;The overview of SiamAPN tracker. It composes of four subnetworks, i.e., feature extraction network, feature fusion network, anchor proposal network (APN), and muti-classification®ression network.&lt;/small&gt;&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PVT</title>
+      <link>https://example.com/project/pvt/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nighttime Aerial Tracking</title>
+      <link>https://example.com/project/nighttime_tracking/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/nighttime_tracking/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Exploit low-light enhancement, denoising, domain adaption technologies to adapt SOTA tracking approaches to low-light conditions. With slight computational consumption, enable UAV tracking at night.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed a &lt;em&gt;Retinex-inspired plug-and-play&lt;/em&gt; deep low-light enhancer, dubbed &lt;em&gt;DarkLighter&lt;/em&gt;, to light up the darkness for UAV tracking. Experiments on a dark tracking benchmark verify its effectiveness in several trackers and superiority against other SOTA general low-light enhancement algorithms, with &lt;em&gt;sufficient real-time speed on an embedded system&lt;/em&gt;.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=DarkLighter&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_darklighter/&#34;&gt;DarkLighter: Light up the Darkness for UAV Tracking&lt;/a&gt; in &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructed a &lt;em&gt;spatial-channel Transformer (SCT)&lt;/em&gt; enhancer to facilitate nighttime UAV tracking in a task-inspired manner. Evaluations on the public UAVDark135 and the newly constructed DarkTrack2021 benchmarks demonstrate that the performance gains of SCT brought to nighttime UAV tracking surpass general low-light enhancers.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=SCT&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2022_ral_sct/&#34;&gt;Tracker Meets Night: A Transformer Enhancer for UAV Tracking&lt;/a&gt; in &lt;strong&gt;RA-L with ICRA2022 presentation&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed an unsupervised domain adaptation framework to adapt object tracking from daytime to nighttime, along with a nighttime tracking benchmark.  &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=UDAT&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2022_cvpr_udat/&#34;&gt;Unsupervised Domain Adaptation for Nighttime Aerial Tracking&lt;/a&gt; in &lt;strong&gt;CVPR2022&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h3&gt;
+&lt;p&gt;We construct some pioneer benchmarks to serve for the development of nighttime object tracking:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-nat2021httpsvision4roboticsgithubionat2021---a-pioneering-benchmark-for-unsupervised-domain-adaptive-nighttime-tracking&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featured&#34;
+           src=&#34;https://example.com/project/nighttime_tracking/featured.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://vision4robotics.github.io/NAT2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAT2021&lt;/a&gt;&amp;mdash;a pioneering benchmark for unsupervised domain adaptive nighttime tracking.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-darktrack2021httpsdarktrack2021netlifyapp---a-nighttime-tracking-benchmark-comprises-110-challenging-sequences-with-100k-frames-in-total&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darktrack2021.netlify.app/post/getting-started/featured_hubbbc35ec4e7f72d7d989382d37396e97_1656952_1200x0_resize_lanczos_3.png&#34; alt=&#34;featured&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://darktrack2021.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DarkTrack2021&lt;/a&gt;&amp;mdash;a nighttime tracking benchmark comprises 110 challenging sequences with 100K frames in total.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-uavdark135uavdark135---a-pioneering-uav-dark-tracking-benchmark-consists-of-135-videos-with-a-variety-of-objects&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://jayye99.github.io/project/uavdark135/featured1_hu47b59972aa09e73897af607e7951342f_209882_720x2500_fit_q75_h2_lanczos.webp&#34; alt=&#34;featured&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;../uavdark135/&#34;&gt;UAVDark135&lt;/a&gt;&amp;mdash;a pioneering UAV dark tracking benchmark consists of 135 videos with a variety of objects.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UAVDark135</title>
+      <link>https://example.com/project/uavdark135/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/uavdark135/</guid>
+      <description>&lt;p&gt;UAVDark135 is the very first UAV dark tracking benchmark dedicated to providing a comprehensive evaluation of tracking performance at night.&lt;/p&gt;
+&lt;p&gt;UAVDark135 consists of 135 sequences, most of which were shot by a standard UAV at night, including more than 125k manually annotated frames. The benchmark covers a wide range of scenes, e.g., road, ocean, street, highway, and lakeside, including a large number of objects, such as person, car, building, athlete, truck, and bike.&lt;/p&gt;
+&lt;p&gt;The benchmark is available &lt;a href=&#34;https://pan.baidu.com/s/1JcV_wTUSt9F8iBXiLCZQdQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (password: axci).&lt;/p&gt;
+&lt;h3 id=&#34;uavdark135-tracking-benchmark&#34;&gt;UAVDark135 Tracking Benchmark&lt;/h3&gt;
+&lt;h4 id=&#34;a-platform-and-statistics&#34;&gt;A. Platform and Statistics&lt;/h4&gt;
+&lt;p&gt;Standing as the first UAV dark tracking benchmark, the UAVDark135 contains totally 135 sequences captured by a standard UAV2 at night. The benchmark includes various tracking scenes, e.g., crossings, t-junctions, road, highway, and consists of different kinds of tracked objects like people, boat, bus, car, truck, athletes, house, etc. To extent the covered scenes, the benchmark also contains some sequences from YouTube, which were shot on the sea. The total frames, mean frames, maximum frames, and minimum frames of the benchmark are 125466, 929, 4571, and 216 respectively, making it suitable for large-scale evaluation. The videos are captured at a frame-rate of 30 frames/s (FPS), with the resolution of 1920×1080.&lt;/p&gt;
+&lt;h4 id=&#34;b-annotation&#34;&gt;B. Annotation&lt;/h4&gt;
+&lt;p&gt;The frames in UAVDark135 are all manually annotated, where a sequence is completely processed by the same annotator to ensure consistency. Since in some dark scenes the object is nearly invisible, annotation process is much more strenuous. After the first round, 5 professional annotators carefully checked the results and made revision for several rounds to reduce errors as much as possible in nearly 2 months.&lt;/p&gt;
+&lt;p&gt;Since the boundary contour of the object is not obvious in the dark, the result boxes of the first annotation fluctuates in continuous image frames. However, the actual motion process of the object should be smooth. In these considerations, we record the original annotation every 5 frames for the sequence with extremely severe vibration, and the results of the remaining frames are obtained by linear interpolation, which is closer to the position and scale variation of the real object.&lt;/p&gt;
+&lt;h4 id=&#34;c-attributes&#34;&gt;C. Attributes&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;image-20210203003923661&#34; srcset=&#34;
+               /project/uavdark135/image-20210203003923661_hu30c164567d774d37c0fbb280aa9371b7_110871_a7f1eaf1b655dc67996a9e8ef82522df.webp 400w,
+               /project/uavdark135/image-20210203003923661_hu30c164567d774d37c0fbb280aa9371b7_110871_e0d155e7cd421189d53ae6b60249ee3c.webp 760w,
+               /project/uavdark135/image-20210203003923661_hu30c164567d774d37c0fbb280aa9371b7_110871_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/uavdark135/image-20210203003923661_hu30c164567d774d37c0fbb280aa9371b7_110871_a7f1eaf1b655dc67996a9e8ef82522df.webp&#34;
+               width=&#34;618&#34;
+               height=&#34;407&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For more details, please refer to our &lt;a href=&#34;https://arxiv.org/abs/2101.08446&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
+      <link>https://example.com/publication/2020_tgrs_ibri-tracker/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2020_tgrs_ibri-tracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamese Network-Based UAV Tracking</title>
+      <link>https://example.com/project/siamesetracking/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/siamesetracking/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;h2 id=&#34;construct-robust-siamese-network-based-trackers-for-high-performance-uav-tracking-through-enhancing-the-anchor-proposal-process-feature-fusion-strategy-attention-mechanism-etc-we-have-developed-several-robust-deep-learning-based-trackers-for-uav&#34;&gt;Construct robust Siamese network-based trackers for high-performance UAV tracking. Through enhancing the anchor proposal process, feature fusion strategy, attention mechanism, etc, we have developed several robust deep learning-based trackers for UAV.&lt;/h2&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed the &lt;strong&gt;anchor proposal network (APN)&lt;/strong&gt; for adaptive anchor proposing. Alleviated the hyper-parameters in anchor-based approaches and redundent anchors in anchor-free approaches simultaneously. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=SiamAPN&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_icra_siamapn/&#34;&gt;&lt;em&gt;Siamese Anchor Proposal Network for High-Speed Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_tgrs_siamapn_ext/&#34;&gt;&lt;em&gt;Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrated &lt;strong&gt;self-attention&lt;/strong&gt; and &lt;strong&gt;cross-attention&lt;/strong&gt; into SiamAPN, enhanced the perception ability for various scale objects of the proposed SiamAPN++. Evaluation on UAV tracking datasets and &lt;strong&gt;real-world onboard test&lt;/strong&gt; demonstrate its effectiveness. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=SiamAPN&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iros_siamapn&amp;#43;&amp;#43;/&#34;&gt;&lt;em&gt;SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IROS 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduced the &lt;strong&gt;hierarchical feature transformer&lt;/strong&gt; into the Siamese framework to achieve interactive fusion of spatial and semantic cues. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=HiFT&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_iccv_hift/&#34;&gt;&lt;em&gt;HiFT: Hierarchical Feature Transformer for Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICCV 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-uamt100httpsgithubcomvision4roboticssiamsa---a-benchmark-built-for-uam-tracking-method-evaluation-which-contains-100-image-sequences-recorded-on-a-flying-uam-platform&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/vision4robotics/SiamSA/blob/main/img/dataset.png&#34; alt=&#34;featured&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://github.com/vision4robotics/SiamSA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UAMT100&lt;/a&gt;&amp;mdash;a benchmark built for UAM tracking method evaluation which contains 100 image sequences recorded on a flying UAM platform.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlation Filter-Based UAV Tracking</title>
+      <link>https://example.com/project/cftracking/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cftracking/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Develop efficient and robust correlation filter (CF)-based trackers on CPU for UAV tracking in challenging scenarios. By mining temporal, spatial, and channel information properly, we have constructed several competitive tracking approaches while maintaining real-time performance on a single CPU.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h3&gt;
+&lt;p&gt;Related works are presented as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Introduced the temporal regularization based on &lt;strong&gt;historical interval response inconsistency&lt;/strong&gt; and the &lt;strong&gt;disruptor-aware&lt;/strong&gt; mechanism based on response bucketing into the CF framework, realizing competitive performance on several UAV tracking-specific benchmarks. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=IBRI-tracker&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2020_tgrs_ibri-tracker/&#34;&gt;&lt;em&gt;Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed the &lt;strong&gt;response deviation-aware regularization&lt;/strong&gt; and the &lt;strong&gt;channel reliability aware regularization&lt;/strong&gt; to make full use of the crucial information in response maps and reliable channels. Experiments demonstrate the proposed MRCF&amp;rsquo;s superiority in numerous challenging UAV tracking scenarios. Further, an original UAV self-localization system based on the proposed tracking approach is constructed. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=MRCF-tracker&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/vision4robotics/MRCF-Tracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IEEE Transactions on Industrial Electronics&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructed a novel DCF-based tracker to enhance the sensitivity and resistance to mutations with an adaptive hybrid label. Considerable experiments on widely used UAV tracking benchmarks demonstrate its effectiveness. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=MSCF-tracker&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2021_icra_mscf_tracker/&#34;&gt;&lt;em&gt;Mutation Sensitive Correlation Filter for Real-Time UAV Tracking with Adaptive Hybrid Label&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proposed a scale-channel attention-based Siamese network for unmanned aerial manipulator (UAM) tracking, along with a pioneering UAM tracking benchmark. &lt;iframe src=&#34;https://ghbtns.com/github-btn.html?user=vision4robotics&amp;repo=SiamSA&amp;type=star&amp;count=true&amp;size=medium&#34; frameborder=&#34;0&#34; scrolling=&#34;0&#34; width=&#34;150&#34; height=&#34;20&#34; title=&#34;GitHub&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;../../publication/2022_iros_siampsa/&#34;&gt;&lt;em&gt;Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IROS 2022&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-filmed-in-my-hometown-using-a-uav&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featured&#34;
+           src=&#34;https://example.com/project/cftracking/featured1.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Filmed in my hometown using a UAV
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

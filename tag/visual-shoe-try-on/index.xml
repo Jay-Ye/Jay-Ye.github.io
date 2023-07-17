@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual shoe try-on | Junjie Ye</title>
+    <link>https://example.com/tag/visual-shoe-try-on/</link>
+      <atom:link href="https://example.com/tag/visual-shoe-try-on/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual shoe try-on</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Visual shoe try-on</title>
+      <link>https://example.com/tag/visual-shoe-try-on/</link>
+    </image>
+    
+    <item>
+      <title>ARShoe: Real-Time Augmented Reality Shoe Try-on System on Smartphones</title>
+      <link>https://example.com/publication/2021_acmmm_arshoe/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021_acmmm_arshoe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
