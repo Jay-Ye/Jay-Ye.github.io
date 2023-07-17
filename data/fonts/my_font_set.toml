@@ -1,0 +1,14 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Gochi+Hand&family=Roboto+Mono&family=Fredoka:wght@500&family=Kalam:wght@700&family=Roboto:wght@400;700&family=Shadows+Into+Light+Two" 
+# "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Fredoka" 
+# "Montserrat"
+body_font = "Roboto" 
+# "Roboto"
+nav_font = "Kalam"
+mono_font = "Shadows Into Light Two"
