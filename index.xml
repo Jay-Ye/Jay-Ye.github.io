@@ -33,10 +33,26 @@
     </item>
     
     <item>
+      <title>RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation</title>
+      <link>https://example.com/publication/2024_corl_ram/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024_corl_ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Language Agent for Autonomous Driving</title>
-      <link>https://example.com/publication/2023_arxiv_agentdriver/</link>
+      <link>https://example.com/publication/2023_colm_agentdriver/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023_arxiv_agentdriver/</guid>
+      <guid>https://example.com/publication/2023_colm_agentdriver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT-Driver: Learning to Drive with GPT</title>
+      <link>https://example.com/publication/2023_arxiv_gptdriver/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_arxiv_gptdriver/</guid>
       <description></description>
     </item>
     

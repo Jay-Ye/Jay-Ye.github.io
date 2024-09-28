@@ -5,12 +5,28 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation</title>
+      <link>https://example.com/publication/2024_corl_ram/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2024_corl_ram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Language Agent for Autonomous Driving</title>
+      <link>https://example.com/publication/2023_colm_agentdriver/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023_colm_agentdriver/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
