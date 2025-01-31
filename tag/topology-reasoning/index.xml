@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topology reasoning | Junjie Ye</title>
+    <link>https://example.com/tag/topology-reasoning/</link>
+      <atom:link href="https://example.com/tag/topology-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Topology reasoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9902be2b97aa5e307a6e65af56d961d4_168654_512x512_fill_lanczos_center_3.png</url>
+      <title>Topology reasoning</title>
+      <link>https://example.com/tag/topology-reasoning/</link>
+    </image>
+    
+    <item>
+      <title>SMART: Advancing Scalable Map Priors for Driving Topology Reasoning</title>
+      <link>https://example.com/publication/2025_icra_smart/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2025_icra_smart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
